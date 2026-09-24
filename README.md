@@ -2,6 +2,10 @@
 
 TaskFlow is a desktop productivity application built with Python, Tkinter, and SQLite. It supports task creation, editing, deletion, completion tracking, categories, filtering, persistent storage, and Pomodoro focus sessions.
 
+## Screenshot
+
+![TaskFlow interface](screenshots/taskflow-main.png)
+
 ## Features
 
 - Add, edit, complete/reopen, and delete tasks
